@@ -37,7 +37,7 @@ __pycache__/
 .Python
 
 # Virtual environments
-.venv/
+backend/.venv/
 venv/
 env/
 backend/.venv/
