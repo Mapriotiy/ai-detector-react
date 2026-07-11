@@ -2,3 +2,9 @@ fastapi
 uvicorn[standard]
 pytest
 httpx
+
+# Experimental AI segment detector
+numpy
+torch
+transformers
+safetensors
